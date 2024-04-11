@@ -1,0 +1,1 @@
+runas /user:domain\user /savecred "cmd /c mmc \"C:\path\to\custom_mmc.msc\""
